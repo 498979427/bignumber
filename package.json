@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sqfasd/bignum.git"
+    "url": "git+https://github.com/sqfasd/bignumber.git"
   },
   "main": "bignumber",
   "author": {
