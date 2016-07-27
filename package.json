@@ -1,5 +1,5 @@
 {
-  "name": "bignum",
+  "name": "bignumber",
   "description": "A browserify implementation of node-bignum",
   "version": "1.3.0-2",
   "keywords": [
